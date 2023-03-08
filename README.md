@@ -3,10 +3,12 @@
 Gobstones Board: A Polymer component that renders a board.
 
 ## install
+
 ```
 npm install
-npm install -g grunt-cli
+npm install -g grunt-cli bower
 bower install
+gem install sass
 ```
 
 ## run
@@ -132,7 +134,7 @@ finalState.table = [[{}, { "red": 3 }], [{ "black": 1 }, {}]]
 
 ## Gem wrapper
 
-This module can also be deployed a ruby gem. `gobstones-board` works with Ruby 2.3.1
+This module can also be deployed a ruby gem. `gobstones-board` works with Ruby >= 2.3.1
 
 ```bash
 cd gem
