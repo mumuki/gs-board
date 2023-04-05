@@ -134,7 +134,7 @@ finalState.table = [[{}, { "red": 3 }], [{ "black": 1 }, {}]]
 
 ## Gem wrapper
 
-This module can also be deployed a ruby gem. `gobstones-board` works with Ruby >= 2.3.1
+This module can also be deployed a ruby gem. `mumuki-gobstones-board` works with Ruby >= 2.3.1
 
 ```bash
 cd gem
